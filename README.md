@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=clemenkok)
 
 - 🔭 Docker + Kubernetes
 - 🌱 Electronic & Info Eng at Imperial.
