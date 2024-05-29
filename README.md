@@ -1,1 +1,1 @@
-Meta Learning, Formal Verification, Neurosymbolic Machine Learning
+Meta Learning, Formal Verification, Neurosymbolic Artificial Intelligence
