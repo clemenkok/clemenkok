@@ -1,1 +1,1 @@
-Meta Learning, Formal Verification, Neurosymbolic Artificial Intelligence, Privacy-Enhancing Technologies, Deep Graph Learning
+Meta Learning, Neurosymbolic Artificial Intelligence, Privacy-Enhancing Technologies
